@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # deep-mil-for-whole-mammogram-classification
 
 The code is based on keras with theano backend.
@@ -22,3 +23,6 @@ _test is used for test.
 Our code is based on conv-keras and keras. If you use current version of keras, you need to revised the code a little bit for adaption. I will update a repo. for current keras.
 
 If you have any questions, please contact with me wentaozhu1991@gmail.com.
+=======
+Automatically identifying expression level and cellular location of proteins in mouse brains from immunofluorescence images
+>>>>>>> 586b0986e456230a4b9cbecc5b3c34f4d06459ba
